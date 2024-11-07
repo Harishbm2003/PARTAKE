@@ -1,0 +1,100 @@
+.nav h1 {
+    float: left;
+    color: rgb(227, 125, 125);  
+    display: flex;   
+}
+body{
+    background-color:rgb(58, 58, 95);
+}
+ol li{
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    color: beige;
+    font-size: large;
+    }
+    .nav ol{
+        text-align: right;
+    }
+    .row1{
+        width: 100%;
+        display: flex;
+    }
+    .column1{
+        width:50%;   
+        font-size: 25px;  
+    }
+    .column2{
+        width: 50%;
+    }
+    .column2 img{
+        width: 500px;
+        height:500px;
+        padding-left: 100px;
+    }
+    h4{
+        color: orange;
+        padding-left: 50px;
+        padding-top: 20px;
+
+    }
+    h1{
+        color: white;
+        padding-left: 50px;
+    }
+p{
+    color: white;
+    padding-left: 50px;
+}
+i{
+    color: orange;
+    font-size: 20px;
+    margin-left: 30px;
+    border:2px; 
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-style:solid; 
+    border-radius:50%;
+}
+.row2{
+    width:100%;
+    display: flex;
+}
+.column-1{
+    width: 50%;
+    margin-left:-300px;
+}
+.column-2{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 300px;
+    font-size: 25px;
+}
+h2{
+    color: orange;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+.column-1 img{
+    width: 700px;
+    height: 700px;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+table{
+    font-size: 25px;
+    color: white;
+    margin-left: 400px;
+    
+}
+button{
+    margin-left: 800px;
+    background-color: red;
+    border-style:solid ;
+    border: 50px;
+    padding: 10px;
+    
+}

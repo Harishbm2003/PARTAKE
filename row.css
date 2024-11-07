@@ -1,0 +1,28 @@
+.row-1{
+    width: 90%;
+    display:flex;
+}
+.column1{
+    width:30%;
+}
+.column2{
+    width: 30%;
+}
+.column3{
+    width: 30%;
+}
+.column1 img{
+    width: 100px;
+    height: 100px;
+}
+.column2 img{
+    width: 100px;
+    height: 100px;
+}
+ol li{
+    list-style-type: none;
+    display:inline;
+}
+h1{
+    color: blueviolet;
+}
